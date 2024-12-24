@@ -94,7 +94,7 @@ Clone the repository
   ```
 Run the script
   ```bash
-  python color_filtering.py
+  python objectrecognizer.py
   ```
 **Adjust the trackbars** to set the desired HSV range for color filtering.
 
